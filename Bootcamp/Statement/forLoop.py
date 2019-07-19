@@ -18,8 +18,8 @@ print(list_sum)
 
 print("---String in forLoop---")
 mystring = "hello world"
-for leeter in mystring:
-    print(leeter)
+for letter in mystring:
+    print(letter)
 
 print("--tuples in for loop--")
 t = (1,2,3)
